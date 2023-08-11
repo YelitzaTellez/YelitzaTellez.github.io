@@ -114,10 +114,6 @@ footer p{
 }
 
 .container{
-  margin: 10px;
+  background-color: #a6522b;
   padding: 10px;
-  display: flex !important;
-  flex-direction: column;
-  background-color: #e09f74;
-  border-radius: 10px;
 }
